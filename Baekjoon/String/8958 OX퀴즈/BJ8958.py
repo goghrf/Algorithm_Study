@@ -17,6 +17,7 @@ for _ in range(n):
         else:
             count = 0
             total += count
-    
+
+    # 최종값 출력
     print(total)
 
